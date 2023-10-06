@@ -1,0 +1,41 @@
+body {
+    background-color: lightpink;
+}
+
+nav>.NavBtn {
+    color: rgb(132, 73, 132);
+    text-decoration: overline underline;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+a:hover {
+    color: palevioletred;
+}
+
+#TitleHome {
+    color: rgb(76, 17, 76);
+    margin-left: 75px;
+    font-family:fantasy;
+}
+
+#TitleHome1 {
+    color: rgb(76, 17, 76);
+    font-family: fantasy;
+    margin-left: ;
+}
+
+h1 {
+    color: palevioletred;
+    margin-left: 150px;
+    font-family: ;
+    font-size: xx-large;
+}
+
+
+h2 {
+    color: peachpuff;
+    margin-left: 225px;
+    font-family: ;
+    font-size: xx-large
+}
