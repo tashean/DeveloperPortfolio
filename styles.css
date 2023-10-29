@@ -5,8 +5,9 @@ body {
 nav>.NavBtn {
     color: rgb(132, 73, 132);
     text-decoration: overline underline;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 200px;
+    margin-right: 50px;
+    margin-top: 50px;
 }
 
 a:hover {
@@ -15,27 +16,110 @@ a:hover {
 
 #TitleHome {
     color: rgb(76, 17, 76);
-    margin-left: 75px;
+    margin-left: 500px;
     font-family:fantasy;
 }
 
 #TitleHome1 {
-    color: rgb(76, 17, 76);
-    font-family: fantasy;
-    margin-left: ;
+    color: lightcoral;
+    font-family:fantasy;
+    margin-left: 550px;
 }
 
-h1 {
-    color: palevioletred;
-    margin-left: 150px;
-    font-family: ;
+#BioHeader {
+    color: lightcoral;
+    margin-left: 570px;
+    font-family: fantasy;
     font-size: xx-large;
 }
 
 
-h2 {
+#ProjectHeader {
     color: peachpuff;
-    margin-left: 225px;
-    font-family: ;
-    font-size: xx-large
+    margin-left: 650px;
+    font-family: fantasy;
 }
+
+h2 {
+    color: purple;
+    font-family: monospace;
+
+}
+
+#ContactHeader {
+    color: peachpuff;
+    margin-left: 650px;
+    font-family: fantasy;
+}
+
+p {
+    color: rgb(212, 91, 47);
+    word-wrap: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+/* Flex & Grid */
+
+#ContactBar {
+    color: black;
+    word-wrap: normal;
+    margin-bottom: 25px;
+    margin-left: 250px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#ContactNote{
+    color: black;
+    word-wrap: normal;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ContactGoodbyeMessage {
+    color: black;
+    word-wrap: normal;
+    margin-bottom:50px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#GoodbyeHarry {
+    margin-left: 500px;
+}
+
+#Project1 {
+    margin-top: 50px;
+word-wrap: normal;
+}
+
+#Project2{
+margin-left: 650px;
+}
+
+#Project3{
+margin-right: 50px;
+word-wrap: normal;
+}
+
+#Project4{
+margin-left: 650px;
+margin-bottom: 50px;
+}
+
+#ImgCon1 {
+    margin-left: 200px;
+    margin-right: 79px;
+    margin-top: 50px;
+}
+
+#ImgCon2 {
+    margin-left: 353px;
+    margin-right: 235px ;
+}
+
+#ImgCon3 {
+    margin-left: 353px;
+    margin-right: 235px ;
+}
+
